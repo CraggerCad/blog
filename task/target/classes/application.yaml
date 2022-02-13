@@ -1,0 +1,6 @@
+#eureka:
+#  client:
+#    healthcheck:
+#      enabled: true
+#    service-url:
+#      defaultZone: http://localhost:8081/eureka/
